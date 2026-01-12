@@ -2,6 +2,7 @@
 .venv/
 
 # Archivos de Python compilados
+.vscode/
 __pycache__/
 *.pyc
 *.pyo
